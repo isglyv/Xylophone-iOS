@@ -1,1 +1,1 @@
-Very simple Xylophpne app by using of AVFoundation 
+Very simple Xylophone app by using of AVFoundation 
